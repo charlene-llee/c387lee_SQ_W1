@@ -1,4 +1,4 @@
-# Side Quest Week 1: Exit 8
+# Side Quest 1 Week 1: Exit 8
 
 ## Setup and Interaction Instructions
 
