@@ -7,6 +7,7 @@ Run the sketch via Google Chrome or GitHub Pages, visit the link provided on the
 ## Assets
 
 | File | Source |
+|------|--------|
 | `assets/images/tunnel.png` | By NEON [1] |
 
 ## References
